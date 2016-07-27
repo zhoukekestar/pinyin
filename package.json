@@ -1,5 +1,5 @@
 {
-  "name": "pinyinjs",
+  "name": "pinyin-converter",
   "version": "2.8.0",
   "description": "汉语拼音转换工具。",
   "files": [
