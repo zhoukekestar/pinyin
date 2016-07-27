@@ -1,6 +1,6 @@
 {
   "name": "pinyin-converter",
-  "version": "2.8.0",
+  "version": "2.8.1",
   "description": "汉语拼音转换工具。",
   "files": [
     "bin",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hotoo/pinyin.git"
+    "url": "https://github.com/zhoukekestar/pinyin.git"
   },
   "bugs": {
     "url": "https://github.com/hotoo/pinyin/issues"

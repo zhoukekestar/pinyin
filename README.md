@@ -29,10 +29,10 @@
 
 ---
 
-## 说明
-* 改模块fork了改项目https://github.com/hotoo/pinyin，在此首先感谢原作者的无私奉献
-* 由于原有项目使用的nodejieba模块，需要编译，相对而言会有一些麻烦
-* 替换了nodejieba模块，改用segment模块，[具体修改](https://github.com/zhoukekestar/pinyin/commit/ce35e8f117ff9c61aeeb7e77c43bc9d10c9bde90)，这样就没有编译的麻烦了
+# 说明(by zhoukekestar)
+* 改模块fork了[该项目](https://github.com/hotoo/pinyin)，在此首先感谢原作者的无私奉献
+* 由于原有项目使用的`nodejieba`模块，需要编译，相对而言会有一些麻烦
+* 替换了`nodejieba`模块，改用`segment`模块，[具体修改](https://github.com/zhoukekestar/pinyin/commit/ce35e8f117ff9c61aeeb7e77c43bc9d10c9bde90)，这样就没有编译的麻烦了
 
 ## 特性
 
